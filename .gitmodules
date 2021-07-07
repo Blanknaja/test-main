@@ -1,0 +1,3 @@
+[submodule "example-home/lib/module1"]
+	path = example-home/lib/module1
+	url = https://github.com/Blanknaja/React-Component.git
