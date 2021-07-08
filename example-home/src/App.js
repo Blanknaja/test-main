@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 // import { Button } from '../lib/module1/build/index'
+import Hello from 'home-component-modules';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Edit <code>test src/App.js</code> and save to reload.
         </p>
         {/* <Button textTitle = "test src/App.js" /> */}
+        <Hello text = "HI naja"/>
         <a
           className="App-link"
           href="https://reactjs.org"
