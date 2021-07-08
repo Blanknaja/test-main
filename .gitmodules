@@ -1,6 +1,3 @@
 [submodule "example-home/lib/module1"]
 	path = example-home/lib/module1
 	url = https://github.com/Blanknaja/React-Component.git
-[submodule "example-home/lib/module2"]
-	path = example-home/lib/module2
-	url = https://github.com/Blanknaja/React-Component.git
