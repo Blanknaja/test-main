@@ -1,7 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 // import { Button } from '../lib/module1/build/index'
-import { Hello } from 'home-component-modules';
+// import { Hello , ProjectCardVertical } from 'home-component-modules';
+import  { Hello } from 'home-component-modules';
+import {ProjectCardVertical}   from 'home-component-modules';
+
+
 
 function App() {
   return (
@@ -13,6 +17,7 @@ function App() {
         </p>
         {/* <Button textTitle = "test src/App.js" /> */}
         <Hello text = "test Message"/>
+        <ProjectCardVertical title = "HI CARD"/>
         <a
           className="App-link"
           href="https://reactjs.org"
