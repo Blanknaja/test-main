@@ -4,6 +4,3 @@
 [submodule "example-home/lib/home-component-modules"]
 	path = example-home/lib/home-component-modules
 	url = https://github.com/Blanknaja/modules-ts-component.git
-[submodule "example-home/lib/test"]
-	path = example-home/lib/test
-	url = https://github.com/Blanknaja/react-component-library.git
