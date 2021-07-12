@@ -11,7 +11,8 @@ function App() {
 
         {/* <Button textTitle = "test src/App.js" /> */}
         <TestComponent theme = "secondary"/>
-        <ProjectCardVertical />
+        <ProjectCardVertical title = "fewfewfew" />
+        <Hello text = "eiei"/>
       </header>
     </div>
   );
