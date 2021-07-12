@@ -2,8 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 // import { Button } from '../lib/module1/build/index'
 // import { Hello , ProjectCardVertical } from 'home-component-modules';
-import  { Hello } from 'home-component-modules';
-import {ProjectCardVertical}   from 'home-component-modules';
+import  { Hello , ProjectCardVertical } from 'home-component-modules';
 import {TestComponent } from 'react-component-library';
 
 function App() {
